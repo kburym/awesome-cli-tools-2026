@@ -158,9 +158,10 @@ All zero-dependency, single-file Python tools:
 
 ## Related Lists
 
-- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 100+ DevOps tools
+- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 120+ DevOps tools
+- [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
 - [awesome-python-devtools-2026](https://github.com/spinov001-art/awesome-python-devtools-2026) — 80+ Python development tools
-- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77+ web scraping tools
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
 
 ## Contributing
 
