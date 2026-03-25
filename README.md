@@ -151,6 +151,8 @@ All zero-dependency, single-file Python tools:
 | [python-qr-generator](https://github.com/spinov001-art/python-qr-generator) | QR code generator |
 | [python-screenshot-tool](https://github.com/spinov001-art/python-screenshot-tool) | Screenshot utility |
 | [python-web-monitor](https://github.com/spinov001-art/python-web-monitor) | Website uptime checker |
+| [python-env-checker](https://github.com/spinov001-art/python-env-checker) | .env file validator, secrets audit |
+| [python-cron-helper](https://github.com/spinov001-art/python-cron-helper) | Cron expression explainer and validator |
 
 ---
 
