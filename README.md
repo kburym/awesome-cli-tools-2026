@@ -169,6 +169,16 @@ All zero-dependency, single-file Python tools:
 
 Found a great CLI tool? Open an issue or PR!
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT
