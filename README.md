@@ -185,7 +185,7 @@ MIT
 
 ---
 
-*Built by [spinov001-art](https://github.com/spinov001-art) — check out [270+ developer tools and tutorials](https://spinov001-art.github.io)*
+*Built by [spinov001-art](https://github.com/spinov001-art) — check out [270+ developer tools and tutorials](https://github.com/spinov001-art)*
 
 
 ---
