@@ -3,6 +3,12 @@
 A curated list of modern command-line tools that make developers more productive. Updated for 2026.
 
 > If you're still using the same terminal setup from 2020, you're missing out. These tools will transform your workflow.
+>
+> **⭐ Star this repo** to bookmark it — updated weekly.
+
+> 🚀 **Need a custom CLI tool or automation script?** Get it built in 48 hours — $250 flat rate. [Get a free quote →](mailto:spinov001@gmail.com) | [Browse 78+ scrapers →](https://apify.com/knotless_cadence)
+
+---
 
 ## Contents
 
